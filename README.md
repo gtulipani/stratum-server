@@ -105,7 +105,7 @@ There are many things that could be improved in the overall solution with the pr
   - When the WebSocket is shutdown, report it to the pool using a channel so that it can be deleted from the pool.
 
 ## CI
-The project is configured in Gitlab with CI. The code is built and tested every time a new commit is pushed.
+The project is not configured with CI yet.
 
 ## Examples
 A few examples are provided, including both commands and different kind of errors. [websocat](https://github.com/vi/websocat) has been used to test the code
